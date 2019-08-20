@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ReservaYa</string>
+    <string name="acerca_de">Acerca De..</string>
+    <string name="inicioTi">Inicio</string>
+    <string name="titulo">RESERVA YA</string>
 </resources>

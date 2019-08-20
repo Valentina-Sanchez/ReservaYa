@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanioLetraTi">45sp</dimen>
+    <dimen name="marginBottom">250dp</dimen>
+    <dimen name="marginTopTi">50dp</dimen>
+</resources>
